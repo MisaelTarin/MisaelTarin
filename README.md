@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MisaelTarin, I'm software developer mostly working as backend developer with .NET, but recently got interested by frontEnd.
-- 🌱 I’m currently learning Angular and React, creating a couple of demos here a there.
+- 👋 Hi, I’m @MisaelTarin, I'm software developer mostly working as backend developer with .NET, with some experience in Angular.
+
 
 
 <!---
